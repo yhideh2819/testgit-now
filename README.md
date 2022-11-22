@@ -1,2 +1,3 @@
 # testgit-now
-testing the interface
+Testing the interface
+This is for practice sake
